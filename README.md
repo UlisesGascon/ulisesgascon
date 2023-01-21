@@ -53,7 +53,7 @@ Read more in [my blog](https://blog.ulisesgascon.com/)
 
 ### ☕️ Get in touch
 
-It is always a pleasure to hear from fellow developers and tech compnaies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
+It is always a pleasure to hear from fellow developers and tech companies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
 
 
 The best way to contact me these days is through [email](mailto:ulises@linux.com?subject=I%20saw%20your%20github%20profile!&body=Hi%20Ulises!%0A%0AMy%20name%20is%20%7Byour%20name%7D%20and%20I%20want%20to%20%7Byour%20message%7D). Alternatively, I'm also an active member of [the OpenJs Foundation Slack group](https://openjsf.org/collaboration/).
