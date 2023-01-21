@@ -26,13 +26,13 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
-### My books
+### 📚 My books
 
 - [Docker Seguro](https://dockerseguro.ulisesgascon.com/). Leanpub (2022)
 - [Cybersecurity handbook](https://github.com/guidesmiths/cybersecurity-handbook). Guidesmiths (2020)
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
 
-### Top Talks/Public Speaking
+### 🎙 Top Talks/Public Speaking
 
 - [WeCode2020: Tor Metrics con Firebase (Live Coding)](https://speaking.ulisesgascon.com/wecode2020-tor-metrics-con-firebase)
 - [JSDayCAN2019: ¿Tu Servidor en NodeJS es vulnerable?](https://speaking.ulisesgascon.com/jsday-canarias-2019-servidor-nodejs-vulnerable)
