@@ -8,11 +8,15 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 
 
 **Standards/Communities I Contribute To**
+
 - Member of [the Node.js Performance Team](https://speaking.ulisesgascon.com/nodejs-performance-team) since 2022
 - Member of [the Node.js Build Team](https://speaking.ulisesgascon.com/nodejs-build-team) since 2022
 - Participant of [the TC39 JS outreach groups](https://speaking.ulisesgascon.com/tc39-js-outreach-groups) since 2022
 - Member of [the Node.js Security WG](https://speaking.ulisesgascon.com/nodejs-security-working-group) since 2022
 - [OWASP (The Open Web Application Security Project) Member](https://owasp.org/) since 2022
+
+**Awards**
+- [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) since 2023
 - [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors) since 2020
 - [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
 
