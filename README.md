@@ -15,10 +15,6 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 - Member of [the Node.js Security WG](https://speaking.ulisesgascon.com/nodejs-security-working-group) since 2022
 - [OWASP (The Open Web Application Security Project) Member](https://owasp.org/) since 2022
 
-**Awards**
-- [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) since 2023
-- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors) since 2020
-- [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
 
 
 **Organizations I Contribute To**
@@ -29,6 +25,12 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 - [One Beyond](https://github.com/orgs/onebeyond/people), [Guidesmiths](https://github.com/orgs/guidesmiths/people) and many more...
 
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
+
+
+### 🏆 Awards
+- [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) since 2023
+- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors) since 2020
+- [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
 
 ### 📚 My books
 
