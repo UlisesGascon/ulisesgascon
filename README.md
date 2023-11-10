@@ -10,6 +10,7 @@ Being part of the open source community has been both rewarding and challenging.
 
 **Standards/Communities I Contribute To**
 
+- [Node.js Releaser](https://speaking.ulisesgascon.com/nodejs-releases-working-group) since 2023
 - Member of [the Node.js Performance Team](https://speaking.ulisesgascon.com/nodejs-performance-team) since 2022
 - Member of [the Node.js Build Team](https://speaking.ulisesgascon.com/nodejs-build-team) since 2022
 - Participant of [the TC39 JS outreach groups](https://speaking.ulisesgascon.com/tc39-js-outreach-groups) since 2022
