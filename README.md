@@ -50,6 +50,10 @@ Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 
 ### 🖋 Top Blog Post
 
+- [How does the Official Node.js News Feeder work?](https://dev.to/ulisesgascon/how-does-the-official-nodejs-news-feeder-work-2fa6)
+- [Dockerize Javascript IOT Applications](https://dev.to/ulisesgascon/dockerize-javascript-iot-applications-4327)
+- [Safely store secrets in Git using Blackbox](https://dev.to/ulisesgascon/safely-store-secrets-in-git-using-blackbox-419c)
+- [You should use the OpenSSF Scorecard](https://dev.to/ulisesgascon/you-should-use-the-openssf-scorecard-4eh4)
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
 - [What is a backdoor? Let’s build one with Node.js](https://snyk.io/blog/what-is-a-backdoor/)
 - [Pensar asíncronamente en un mundo síncrono](https://blog.ulisesgascon.com/pensar-asincronamente-en-un-mundo-sincrono)
