@@ -37,7 +37,8 @@ Being part of the open source community has been both rewarding and challenging.
 - [Cybersecurity handbook](https://github.com/guidesmiths/cybersecurity-handbook). Guidesmiths (2020)
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
 
-### 🎙 Top Talks/Public Speaking
+### 🎙 Top Talks/Interviews/Public Speaking
+- [¿Qué TECH Cuentas? (Podcast) - Ep. 4 - Cómo es contribuir y mantener proyectos como NODE.JS, con Ulises Gascón](https://www.youtube.com/watch?v=hUMkv7kXYS8)
 - [Event in Spanish: Open Source Viernes con @ulisesgascon](https://www.youtube.com/watch?v=vcSLx1PIsmo)
 - [WeCode2020: Tor Metrics con Firebase (Live Coding)](https://speaking.ulisesgascon.com/wecode2020-tor-metrics-con-firebase)
 - [JSDayCAN2019: ¿Tu Servidor en NodeJS es vulnerable?](https://speaking.ulisesgascon.com/jsday-canarias-2019-servidor-nodejs-vulnerable)
