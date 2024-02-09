@@ -16,7 +16,7 @@ Being part of the open source community has been both rewarding and challenging.
 - Participant of [the TC39 JS outreach groups](https://speaking.ulisesgascon.com/tc39-js-outreach-groups) since 2022
 - Member of [the Node.js Security WG](https://speaking.ulisesgascon.com/nodejs-security-working-group) since 2022
 - [OWASP (The Open Web Application Security Project) Member](https://owasp.org/) since 2022
-- Member of [the Expressjs triage Team](https://github.com/orgs/expressjs/teams/triagers) since 2020
+- Member of [the Express.js triage Team](https://github.com/orgs/expressjs/teams/triagers) since 2020
 
 **Organizations I Contribute To**
 - [Expressjs](https://github.com/orgs/expressjs/people)
