@@ -50,7 +50,7 @@ Being part of the open source community has been both rewarding and challenging.
 
 Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 
-### ⚙️ Top Proof of concept (POCs)
+### ⚙️ Top Proof of concepts (POCs)
 - [Using Feature Flags and Canary Releases with Electron](https://github.com/UlisesGascon/poc-feature-flags-canary-releases)
 - [Node.js Binaries Integrity Checker](https://github.com/UlisesGascon/nodejs-distribution-system-monitoring)
 - [How to do an Azure Blob media content optimization?](https://github.com/UlisesGascon/poc-azure-blob-media-optimization)
@@ -68,7 +68,7 @@ Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 
 Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
-### 🖋 Top Blog Post
+### 🖋 Top Blog Posts
 
 - [How does the Official Node.js News Feeder work?](https://dev.to/ulisesgascon/how-does-the-official-nodejs-news-feeder-work-2fa6)
 - [Dockerize Javascript IOT Applications](https://dev.to/ulisesgascon/dockerize-javascript-iot-applications-4327)
