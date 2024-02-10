@@ -50,6 +50,23 @@ Being part of the open source community has been both rewarding and challenging.
 
 Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 
+### ⚙️ Top Proof of concept (POCs)
+- [Using Feature Flags and Canary Releases with Electron](https://github.com/UlisesGascon/poc-feature-flags-canary-releases)
+- [Node.js Binaries Integrity Checker](https://github.com/UlisesGascon/nodejs-distribution-system-monitoring)
+- [How to do an Azure Blob media content optimization?](https://github.com/UlisesGascon/poc-azure-blob-media-optimization)
+- [How to use Azure IOT Device Update with custom debian/ubuntu packages?](https://github.com/UlisesGascon/poc-azure-iot-du-custom-package)
+- [How to Synchronize Markdown files with Confluence?](https://github.com/UlisesGascon/poc-sync-markdown-with-confluence)
+- [Use Github Actions to monitor Jenkins agents](https://github.com/UlisesGascon/jenkins-status-alerts-and-reporting)
+- [Ontology in the Digital Twins Definition Language universe](https://github.com/UlisesGascon/POC-azure-IOT-DTDL-ontology)
+- [Unlock the Power of IoT with Azure Digital Twin Modeling](https://github.com/UlisesGascon/POC-azure-iot-digital-twins-modeling)
+- [A Comprehensive Proof of Concept Walkthrough about Azure IOT Hub using Node.js](https://github.com/UlisesGascon/POC-azure-iot-hub-device-communications)
+- [How to use JSON Schemas and Semantic Versioning for everything?](https://github.com/UlisesGascon/POC-semver-and-json-schemas)
+- [How to visualize the Node.js Machines inventory in a Dashboard?](https://github.com/UlisesGascon/poc-nodejs-machines-ping-dashboard)
+- [How to do load tests for an API using K6 and Grafana?](https://github.com/UlisesGascon/PoC-Load-test)
+
+
+Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
+
 ### 🖋 Top Blog Post
 
 - [How does the Official Node.js News Feeder work?](https://dev.to/ulisesgascon/how-does-the-official-nodejs-news-feeder-work-2fa6)
