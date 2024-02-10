@@ -63,6 +63,7 @@ Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 - [How to use JSON Schemas and Semantic Versioning for everything?](https://github.com/UlisesGascon/POC-semver-and-json-schemas)
 - [How to visualize the Node.js Machines inventory in a Dashboard?](https://github.com/UlisesGascon/poc-nodejs-machines-ping-dashboard)
 - [How to do load tests for an API using K6 and Grafana?](https://github.com/UlisesGascon/PoC-Load-test)
+- [How to use Terraform and Localstack?](https://github.com/UlisesGascon/sample-terraform-localstack)
 
 
 Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
