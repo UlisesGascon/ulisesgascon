@@ -9,7 +9,7 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 **Standards/Communities I Contribute To**
-
+- Member of [the Express.js Technical Committee](https://github.com/expressjs/expressjs.com/pull/1460) since 2024 
 - [Node.js Releaser](https://speaking.ulisesgascon.com/nodejs-releases-working-group) since 2023
 - Member of [the Node.js Performance Team](https://speaking.ulisesgascon.com/nodejs-performance-team) since 2022
 - Member of [the Node.js Build Team](https://speaking.ulisesgascon.com/nodejs-build-team) since 2022
