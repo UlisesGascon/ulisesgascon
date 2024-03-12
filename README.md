@@ -20,13 +20,15 @@ Being part of the open source community has been both rewarding and challenging.
 - Member of [the Node.js Security WG](https://speaking.ulisesgascon.com/nodejs-security-working-group) since 2022
 - [OWASP (The Open Web Application Security Project) Member](https://owasp.org/) since 2022
 - Member of [the Express.js triage Team](https://github.com/orgs/expressjs/teams/triagers) since 2020
+- Member of [the Express.js Triage Team](https://github.com/expressjs/express/pull/4175) since 2020
+- Member of [the Yeoman Core Team](https://github.com/yeoman/yeoman.io/pull/793) since 2019
 
 **Organizations I Contribute To**
 - [Expressjs](https://github.com/orgs/expressjs/people)
 - [Yeoman](https://github.com/orgs/yeoman/people)
 - [OWASP](https://github.com/OWASP/NodeGoat/commits?author=UlisesGascon)
 - [Nodejs](https://github.com/orgs/nodejs/people)
-- [One Beyond](https://github.com/orgs/onebeyond/people), [Guidesmiths](https://github.com/orgs/guidesmiths/people) and many more...
+- [One Beyond](https://github.com/orgs/onebeyond/people) (prev: [Guidesmiths](https://github.com/orgs/guidesmiths/people)) and many more...
 
 ### 🏆 Awards
 - [Snyk Ambassador](https://snyk.io/snyk-ambassadors/) since 2023
