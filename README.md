@@ -38,7 +38,7 @@ Being part of the open source community has been both rewarding and challenging.
 - [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
 
 ### 📚 My books
-
+- [Node.js for beginners](https://www.amazon.com/dp/1803245174). Packt (2024)
 - [Docker Seguro](https://dockerseguro.ulisesgascon.com/). Leanpub (2022)
 - [Cybersecurity handbook](https://github.com/guidesmiths/cybersecurity-handbook). Guidesmiths (2020)
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
