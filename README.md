@@ -19,7 +19,6 @@ Being part of the open source community has been both rewarding and challenging.
 - Participant of [the TC39 JS outreach groups](https://speaking.ulisesgascon.com/tc39-js-outreach-groups) since 2022
 - Member of [the Node.js Security WG](https://speaking.ulisesgascon.com/nodejs-security-working-group) since 2022
 - [OWASP (The Open Web Application Security Project) Member](https://owasp.org/) since 2022
-- Member of [the Express.js triage Team](https://github.com/orgs/expressjs/teams/triagers) since 2020
 - Member of [the Express.js Triage Team](https://github.com/expressjs/express/pull/4175) since 2020
 - Member of [the Yeoman Core Team](https://github.com/yeoman/yeoman.io/pull/793) since 2019
 
