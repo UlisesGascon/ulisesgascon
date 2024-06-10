@@ -43,9 +43,9 @@ Being part of the open source community has been both rewarding and challenging.
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
 
 ### 🎙 Top Talks/Interviews/Public Speaking
+- [Event in Spanish: Open Source Viernes con @ulisesgascon](https://www.youtube.com/live/oszM2e4WxJo?t=820s)
 - [Web Reactiva 292: Mantener node.js sin poder fallarle a millones de programadores con Ulises Gascón](https://speaking.ulisesgascon.com/web-reactiva-292)
 - [¿Qué TECH Cuentas? (Podcast) - Ep. 4 - Cómo es contribuir y mantener proyectos como NODE.JS, con Ulises Gascón](https://www.youtube.com/watch?v=hUMkv7kXYS8)
-- [Event in Spanish: Open Source Viernes con @ulisesgascon](https://www.youtube.com/watch?v=vcSLx1PIsmo)
 - [WeCode2020: Tor Metrics con Firebase (Live Coding)](https://speaking.ulisesgascon.com/wecode2020-tor-metrics-con-firebase)
 - [JSDayCAN2019: ¿Tu Servidor en NodeJS es vulnerable?](https://speaking.ulisesgascon.com/jsday-canarias-2019-servidor-nodejs-vulnerable)
 - [T3chFest2018: Scraping épico para gente sin APIs](https://speaking.ulisesgascon.com/techfest2018-scraping-epico-para-gente-sin-apis)
