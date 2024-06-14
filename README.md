@@ -13,7 +13,7 @@ Being part of the open source community has been both rewarding and challenging.
 - Member of [the OpenJS Security Collaboration Space](https://github.com/openjs-foundation/security-collab-space/pull/202) since 2024
 - Regular Member of [the OpenJS Cross Project Council](https://github.com/openjs-foundation/cross-project-council/pull/1257) since 2024
 - Member of [the Express.js Technical Committee](https://github.com/expressjs/expressjs.com/pull/1460) since 2024
-- Maintainer of [the OSSF Scorercad Monitor](https://github.com/ossf/scorecard-monitor) and [the OSSF Scorecard VIsualizer](https://github.com/ossf/scorecard-visualizer) since 2022 
+- Maintainer of [the OSSF Scorercad Monitor](https://github.com/ossf/scorecard-monitor/issues/79) and [the OSSF Scorecard Visualizer](https://github.com/ossf/scorecard-visualizer) since 2022 
 - [Node.js Releaser](https://speaking.ulisesgascon.com/nodejs-releases-working-group) since 2023
 - Member of [the Node.js Performance Team](https://speaking.ulisesgascon.com/nodejs-performance-team) since 2022
 - Member of [the Node.js Build Team](https://speaking.ulisesgascon.com/nodejs-build-team) since 2022
