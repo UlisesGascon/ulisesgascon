@@ -9,6 +9,7 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 ### Standards/Communities I Contribute To
+- Participant of [the TC39 TG3 (Security WG)](https://github.com/tc39/tg3) since 2024
 - [Node.js Core Collaborator](https://github.com/nodejs/node/pull/51991) since 2024
 - Member of [the OpenJS Security Collaboration Space](https://github.com/openjs-foundation/security-collab-space/pull/202) since 2024
 - Regular Member of [the OpenJS Cross Project Council](https://github.com/openjs-foundation/cross-project-council/pull/1257) since 2024
