@@ -89,8 +89,6 @@ Read more in [my blog](https://blog.ulisesgascon.com/)
 
 ### ☕️ Get in touch
 
-[![Ulises Gascón holding and showing the components of a Robot during an interview](https://github.com/UlisesGascon/experimental-stuff/assets/5110813/1253b4d2-623e-4f27-a254-a8870ced249d)](https://www.youtube.com/live/vcSLx1PIsmo?si=LZ11CvReK71m-toh&t=2233)
-
 
 It is always a pleasure to hear from fellow developers and tech companies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
 
