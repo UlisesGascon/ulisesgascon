@@ -89,6 +89,8 @@ Read more in [my blog](https://blog.ulisesgascon.com/)
 
 ### ☕️ Get in touch
 
+![ulises_charlie_bot_short_original](https://github.com/UlisesGascon/ulisesgascon/assets/5110813/fafe3e87-f63a-4081-b241-d8c8fd0b7911)
+
 
 It is always a pleasure to hear from fellow developers and tech companies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
 
