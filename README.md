@@ -6,6 +6,7 @@ I'm a full-stack software engineer with 10+ years experience and a huge passion 
 
 My current open source activity is highly focused on the JS ecosystem. I have dedicated my time to maintaining and contributing to [over 150 open source packages](https://www.npmjs.com/~ulisesgascon), including some of the top 100 packages on the Npm registry.
 
+
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 ### Standards/Communities I Contribute To
@@ -87,6 +88,9 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 Read more in [my blog](https://blog.ulisesgascon.com/)
 
 ### ☕️ Get in touch
+
+[![Ulises Gascón holding and showing the components of a Robot during an interview](https://github.com/UlisesGascon/experimental-stuff/assets/5110813/1253b4d2-623e-4f27-a254-a8870ced249d)](https://www.youtube.com/live/vcSLx1PIsmo?si=LZ11CvReK71m-toh&t=2233)
+
 
 It is always a pleasure to hear from fellow developers and tech companies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
 
