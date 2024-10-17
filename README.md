@@ -78,6 +78,7 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
 ### 🖋 Top Blog Posts
 
+- [Decoding CVEs: A practical guide to assessing and mitigating security risks](https://snyk.io/articles/decoding-cves-practical-guide-assessing-mitigating-security-risks/)
 - [How does the Official Node.js News Feeder work?](https://dev.to/ulisesgascon/how-does-the-official-nodejs-news-feeder-work-2fa6)
 - [Dockerize Javascript IOT Applications](https://dev.to/ulisesgascon/dockerize-javascript-iot-applications-4327)
 - [Safely store secrets in Git using Blackbox](https://dev.to/ulisesgascon/safely-store-secrets-in-git-using-blackbox-419c)
