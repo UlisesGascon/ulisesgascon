@@ -34,6 +34,7 @@ Being part of the open source community has been both rewarding and challenging.
 - [One Beyond](https://github.com/orgs/onebeyond/people) (prev: [Guidesmiths](https://github.com/orgs/guidesmiths/people)) and many more...
 
 ### 🏆 Awards
+- [JavaScriptLandia Awards Leading by Example in 2024](https://openjsf.org/blog/2024-javascriptlandia-community-award-categories-a)
 - [Snyk Ambassador](https://snyk.io/snyk-ambassadors/) since 2023
 - [Docker Captain](https://www.docker.com/captains/ulises-gascon/) since 2023
 - [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) since 2023
