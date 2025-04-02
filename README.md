@@ -50,6 +50,7 @@ Being part of the open source community has been both rewarding and challenging.
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
 
 ### 🎙 Top Talks/Interviews/Public Speaking
+- [DevSecCon: Strengthening the Software Supply Chain and Open Source Projects](https://www.youtube.com/watch?v=IaNE2LRuGQA)
 - [Event in Spanish: Open Source Viernes con @ulisesgascon](https://www.youtube.com/live/oszM2e4WxJo?t=820s)
 - [Web Reactiva 292: Mantener node.js sin poder fallarle a millones de programadores con Ulises Gascón](https://speaking.ulisesgascon.com/web-reactiva-292)
 - [¿Qué TECH Cuentas? (Podcast) - Ep. 4 - Cómo es contribuir y mantener proyectos como NODE.JS, con Ulises Gascón](https://www.youtube.com/watch?v=hUMkv7kXYS8)
