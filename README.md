@@ -4,7 +4,7 @@
 
 I'm a full-stack software engineer with 10+ years experience and a huge passion for Open Source... [Full Bio](https://resume.ulisesgascon.com/)
 
-My current open source activity is highly focused on the JS ecosystem. I have dedicated my time to maintaining and contributing to [over 150 open source packages](https://www.npmjs.com/~ulisesgascon), including some of the top 100 packages on the Npm registry.
+My current open source activity is highly focused on the JS ecosystem. I have dedicated my time to maintaining and contributing to [over 200 open source packages](https://gist.github.com/UlisesGascon/436ddefe88392fac09e24b6f31e9a945), including some of the top 100 packages on the Npm registry.
 
 
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
