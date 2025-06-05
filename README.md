@@ -84,13 +84,15 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 ### 🖋 Top Blog Posts
 
 - [Decoding CVEs: A practical guide to assessing and mitigating security risks](https://snyk.io/articles/decoding-cves-practical-guide-assessing-mitigating-security-risks/)
+- [How Yeoman is Enhancing Security Through Policy Updates](https://yeoman.io/blog/security-policy-update)
+- [A New Chapter for Express.js: Triumphs of 2024 and an ambitious 2025](https://expressjs.com/2025/01/09/rewind-2024-triumphs-and-2025-vision.html)
+- [How Express.js Rebuilt Its Vulnerability Reporting Process](https://expressjs.com/2025/06/05/vulnerability-reporting-process-overhaul.html)
 - [How does the Official Node.js News Feeder work?](https://dev.to/ulisesgascon/how-does-the-official-nodejs-news-feeder-work-2fa6)
 - [Dockerize Javascript IOT Applications](https://dev.to/ulisesgascon/dockerize-javascript-iot-applications-4327)
 - [Safely store secrets in Git using Blackbox](https://dev.to/ulisesgascon/safely-store-secrets-in-git-using-blackbox-419c)
 - [You should use the OpenSSF Scorecard](https://dev.to/ulisesgascon/you-should-use-the-openssf-scorecard-4eh4)
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
 - [What is a backdoor? Let’s build one with Node.js](https://snyk.io/blog/what-is-a-backdoor/)
-- [Pensar asíncronamente en un mundo síncrono](https://blog.ulisesgascon.com/pensar-asincronamente-en-un-mundo-sincrono)
 
 Read more in [my blog](https://blog.ulisesgascon.com/)
 
