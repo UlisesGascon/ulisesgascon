@@ -10,6 +10,7 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 ### Standards/Communities I Contribute To
+- Member of [the OpenJS Foundation CNA team](https://openjsf.org/blog/openjs-foundation-cna) since 2025
 - [TC39 Delegate (OpenJS Foundation)](https://github.com/openjs-foundation/standards/pull/305) since 2024
 - Participant of [the TC39 TG3 (Security WG)](https://github.com/tc39/tg3) since 2024
 - [Node.js Core Collaborator](https://github.com/nodejs/node/pull/51991) since 2024
