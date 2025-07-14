@@ -6,7 +6,6 @@ I'm a full-stack software engineer with 10+ years experience and a huge passion 
 
 My current open source activity is highly focused on the JS ecosystem. I have dedicated my time to maintaining and contributing to [over 200 open source packages](https://gist.github.com/UlisesGascon/436ddefe88392fac09e24b6f31e9a945), including some of the top 100 packages on the Npm registry.
 
-
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 ### Standards/Communities I Contribute To
@@ -38,9 +37,9 @@ Being part of the open source community has been both rewarding and challenging.
 - [JavaScriptLandia Awards Leading by Example](https://openjsf.org/blog/2024-javascriptlandia-community-award-categories-a) in 2024
 - [Snyk Ambassador](https://snyk.io/snyk-ambassadors/) since 2023
 - [Docker Captain](https://www.docker.com/captains/ulises-gascon/) since 2023
-- [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) since 2023
-- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors) since 2020
 - [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
+- [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) from 2023 to 2025
+- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors) from 2020 to 2024
 
 ### 📚 My books
 - [Dominando o Node.js](https://novatec.com.br/livros/dominando-nodejs/). Novatec Editora (2025)
@@ -79,7 +78,6 @@ Watch more in [my personal website](https://speaking.ulisesgascon.com/)
 - [How to do load tests for an API using K6 and Grafana?](https://github.com/UlisesGascon/PoC-Load-test)
 - [How to use Terraform and Localstack?](https://github.com/UlisesGascon/sample-terraform-localstack)
 
-
 Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
 ### 🖋 Top Blog Posts
@@ -100,7 +98,6 @@ Read more in [my blog](https://blog.ulisesgascon.com/)
 ### ☕️ Get in touch
 
 It is always a pleasure to hear from fellow developers and tech companies. If you have any potential projects or are looking for help maintaining a foss project, please reach out and contact me 🙂
-
 
 The best way to contact me these days is through [email](mailto:ulises@linux.com?subject=I%20saw%20your%20github%20profile!&body=Hi%20Ulises!%0A%0AMy%20name%20is%20%7Byour%20name%7D%20and%20I%20want%20to%20%7Byour%20message%7D). Alternatively, I'm also an active member of [the OpenJs Foundation Slack group](https://openjsf.org/collaboration/).
 
