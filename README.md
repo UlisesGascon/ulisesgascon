@@ -84,6 +84,7 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
 ### 🖋 Top Blog Posts
 
+- [The Future of Lodash](https://blog.ulisesgascon.com/the-future-of-lodash)
 - [Decoding CVEs: A practical guide to assessing and mitigating security risks](https://snyk.io/articles/decoding-cves-practical-guide-assessing-mitigating-security-risks/)
 - [How Yeoman is Enhancing Security Through Policy Updates](https://yeoman.io/blog/security-policy-update)
 - [A New Chapter for Express.js: Triumphs of 2024 and an ambitious 2025](https://expressjs.com/2025/01/09/rewind-2024-triumphs-and-2025-vision.html)
