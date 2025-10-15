@@ -98,10 +98,13 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
 Read more in [my blog](https://blog.ulisesgascon.com/)
 
+---
+
 ### Sponsors
 
 ![Orbitant logo. A company where engineering meets business](https://raw.githubusercontent.com/UlisesGascon/ulisesgascon/main/orbitant_dark.svg#gh-dark-mode-only)![Orbitant logo. A company where engineering meets business](https://raw.githubusercontent.com/UlisesGascon/ulisesgascon/main/orbitant_light.svg#gh-light-mode-only)
 
+---
 
 ### ☕️ Get in touch
 
