@@ -85,6 +85,7 @@ Find more in [my repositories](https://github.com/UlisesGascon?tab=repositories)
 
 ### 🖋 Top Blog Posts
 
+- [Open Source Doesn’t Fail Because of Code!](https://blog.ulisesgascon.com/open-source-doesnt-fail-because-of-code)
 - [The Future of Lodash](https://blog.ulisesgascon.com/the-future-of-lodash)
 - [Decoding CVEs: A practical guide to assessing and mitigating security risks](https://snyk.io/articles/decoding-cves-practical-guide-assessing-mitigating-security-risks/)
 - [How Yeoman is Enhancing Security Through Policy Updates](https://yeoman.io/blog/security-policy-update)
