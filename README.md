@@ -53,6 +53,7 @@ Being part of the open source community has been both rewarding and challenging.
 - [JavaScript, ¡Inspírate!](https://javascriptinspirate.ulisesgascon.com/). Leanpub (2017)
 
 ### 🎙 Top Talks/Interviews/Public Speaking
+- [What Comes After Chaos? Lessons from Reviving Express and reimagining Lodash](https://www.youtube.com/watch?v=NHsIxEy0_Qw)
 - [Node Congress 2025 | What is a Vulnerability and What’s Not? Making Sense of Node.js and Express Threat Models](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
 - [DevSecCon: Strengthening the Software Supply Chain and Open Source Projects](https://www.youtube.com/watch?v=IaNE2LRuGQA)
 - [Event in Spanish: Open Source Viernes con @ulisesgascon](https://www.youtube.com/live/oszM2e4WxJo?t=820s)
