@@ -9,6 +9,7 @@ My current open source activity is highly focused on the JS ecosystem. I have de
 Being part of the open source community has been both rewarding and challenging. I take great pride in helping to improve the ecosystem and support the developers who rely on these packages for their projects. I am constantly keeping track of new developments and bug fixes, responding to issues, and developing new features. It is also important to me to ensure accuracy, scalability, and security of the packages that I am involved with. More details in [my website](https://opensource.ulisesgascon.com/).
 
 ### Standards/Communities I Contribute To
+- Member of [the Webpack Security triage team](https://github.com/webpack/security-wg/pull/17) since 2026
 - Member of [the Lodash Technical Steering Committee (TSC)](https://github.com/lodash/lodash/pull/6035) since 2025
 - Member of [the OpenJS AI Collab Space](https://github.com/openjs-foundation/ai-collab-space/commit/9dc22c3100635b5dce3f6e08eaa33333a5d5fb5a) since 2025
 - Member of [the Webpack Security WG](https://github.com/webpack/security-wg/pull/1) since 2025
