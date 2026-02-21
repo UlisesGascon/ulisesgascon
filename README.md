@@ -39,7 +39,7 @@ Being part of the open source community has been both rewarding and challenging.
 
 ### 🏆 Awards
 - [JavaScriptLandia Awards Leading by Example](https://openjsf.org/blog/2024-javascriptlandia-community-award-categories-a) in 2024
-- [Snyk Ambassador](https://snyk.io/snyk-ambassadors/) since 2023
+- [Snyk Ambassador](https://snyk.io/snyk-ambassadors/) from 2023 to 2026
 - [Docker Captain](https://www.docker.com/captains/ulises-gascon/) since 2023
 - [Google Developer Expert (GDE) for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ulises-gascon) since 2019
 - [Most Valuable Professional (MVP) for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5005253) from 2023 to 2025
